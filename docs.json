@@ -35,9 +35,7 @@
           {
             "group": "KI Inhalte & FAQ Bearbeiten",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "faq-management", "quickstart"
             ]
           }
         ]
