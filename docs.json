@@ -14,22 +14,15 @@
         "tab": "Deutsch",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "DialogShift App",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "faq-management"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Integrationen",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              
             ]
           },
           {
@@ -44,22 +37,21 @@
         "tab": "English",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "DialogShift App",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Integrationen",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              
+            ]
+          },
+          {
+            "group": "KI Inhalte & FAQ Bearbeiten",
+            "pages": [
+              "faq-management", "quickstart"
             ]
           }
         ]
@@ -67,11 +59,6 @@
     ],
     "global": {
       "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://dialogshift.mintlify.app/",
-          "icon": "book-open-cover"
-        },
         {
           "anchor": "Blog",
           "href": "https://www.dialogshift.com/blog/blog-i",
