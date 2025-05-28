@@ -16,19 +16,13 @@
           {
             "group": "DialogShift App",
             "pages": [
-              "faq-management"
+              "faq-management-de"
             ]
           },
           {
             "group": "Integrationen",
             "pages": [
               
-            ]
-          },
-          {
-            "group": "KI Inhalte & FAQ Bearbeiten",
-            "pages": [
-              "faq-management", "quickstart"
             ]
           }
         ]
@@ -46,12 +40,6 @@
             "group": "Integrationen",
             "pages": [
               
-            ]
-          },
-          {
-            "group": "KI Inhalte & FAQ Bearbeiten",
-            "pages": [
-              "faq-management", "quickstart"
             ]
           }
         ]
